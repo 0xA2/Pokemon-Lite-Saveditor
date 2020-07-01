@@ -18,7 +18,7 @@ Savefile editor for the NDS Pokemon 4th generation games
 ---------------
 
 ### Usage
-'''bash
+```bash
 $ python saveditor.py -h
 usage: saveditor.py [-h] -v VERSION -f FILE [-n NAME] [-p PKM] [-a ABILITY]
 
@@ -34,7 +34,7 @@ optional arguments:
   -p PKM, --pkm PKM     Pokemon name. Example:'Pikachu'
   -a ABILITY, --ability ABILITY
                         Name of new ability. Example:'Static'
-'''
+```
 
 ---------------
 
