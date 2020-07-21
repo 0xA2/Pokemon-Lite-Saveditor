@@ -757,7 +757,7 @@ def editSpecies(data,PKMName,blockOffsets,version):
 		PRNG(data,PKM_checksum,1,version)
 		PRNG(data,PKM_checksum,2,version)
 	except:
-		return "Failed to edit species"
+		return "Failed to edit Pokemon species"
 
 
 def editAbility(data,newability,blockOffsets,version):
