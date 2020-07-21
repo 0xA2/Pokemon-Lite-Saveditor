@@ -60,7 +60,7 @@ pokemon = {
 	   "moveset":0x00, # 0x00 - 0x07
 	   "move_pp":0x08, # 0x08 - 0x0b
 	   "move_ppups":0x0c, # 0x0c - 0x0f
-	   "IVs":0x10, # 0x10 - 0x13 (fist 29 bits control IV values, set all for max IVs; bit 30 -> isEgg flag?; bit 31 -> isNicknamed flag?)
+	   "IVs":0x10, # 0x10 - 0x13 (fist 29 bits control IV values; bit 30 -> Egg flag?; bit 31 -> Nicknamed flag?)
 
 	   # Block C (2)
 	   "nickname":0x08 # 0x08 - 0x1d
