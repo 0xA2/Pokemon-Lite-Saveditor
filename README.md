@@ -1,4 +1,4 @@
-# Pokemon-Lite-S4VEditor
+# Pokemon-Lite-Saveditor
 Savefile editor for the NDS Pokemon 4th generation games 
 
 ---------------
