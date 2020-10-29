@@ -44,6 +44,7 @@ optional arguments:
 - Move editing
 - EV and IV editing
 - Shininess editing
+- A LOT of optimization
 
 
 
